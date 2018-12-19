@@ -46,4 +46,5 @@ open test.nes
 
 ### License
 
-MIT
+[MIT](license.txt)
+
