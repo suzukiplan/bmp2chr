@@ -41,7 +41,6 @@ make test
 open test.nes
 ```
 
-(Result)
 <img src="test-result.png" width="320"/>
 
 
